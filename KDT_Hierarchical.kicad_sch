@@ -457,7 +457,6 @@
 		(at 45.72 137.16 0)
 		(effects
 			(font
-				(face "Times New Roman")
 				(size 4 4)
 				(color 0 0 0 1)
 			)
@@ -1312,12 +1311,11 @@
 		)
 		(uuid "c52bc9e5-2c42-41e6-ae08-fabef868928a")
 	)
-	(text "Power - Sequencing"
+	(text "..........................................."
 		(exclude_from_sim no)
 		(at 45.72 121.92 0)
 		(effects
 			(font
-				(face "Times New Roman")
 				(size 4 4)
 				(color 0 0 0 1)
 			)
@@ -1718,12 +1716,11 @@
 		)
 		(uuid "fe1f4464-8466-41a3-95c1-bacdc38614fb")
 	)
-	(text "Revision History"
+	(text "..........................................."
 		(exclude_from_sim no)
 		(at 45.72 129.54 0)
 		(effects
 			(font
-				(face "Times New Roman")
 				(size 4 4)
 				(color 0 0 0 1)
 			)
@@ -1745,47 +1742,6 @@
 			(href "#17")
 		)
 		(uuid "ffcd9e5c-5c93-423a-9ccc-e0af67821852")
-	)
-	(sheet
-		(at 340.36 313.69)
-		(size 35.56 5.08)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "13eb0b07-00a1-4d61-8da3-582545eb29a8")
-		(property "Sheetname" "Power - Sequencing"
-			(at 340.36 312.6609 0)
-			(effects
-				(font
-					(face "Times New Roman")
-					(size 1.905 1.905)
-					(bold yes)
-					(color 0 0 0 1)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Power - Sequencing.kicad_sch"
-			(at 341.63 314.96 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "KDT_Hierarchical"
-				(path "/0650c7a8-acba-429c-9f8e-eec0baf0bc1c"
-					(page "6")
-				)
-			)
-		)
 	)
 	(sheet
 		(at 299.72 302.26)
@@ -1824,47 +1780,6 @@
 			(project "KDT_Hierarchical"
 				(path "/0650c7a8-acba-429c-9f8e-eec0baf0bc1c"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 340.36 302.26)
-		(size 35.56 5.08)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e7c91631-be85-488a-af7a-f2a810f3fbfe")
-		(property "Sheetname" "Revision History"
-			(at 340.36 300.99 0)
-			(effects
-				(font
-					(face "Times New Roman")
-					(size 1.905 1.905)
-					(bold yes)
-					(color 0 0 0 1)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Revision History.kicad_sch"
-			(at 340.995 303.53 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "KDT_Hierarchical"
-				(path "/0650c7a8-acba-429c-9f8e-eec0baf0bc1c"
-					(page "7")
 				)
 			)
 		)

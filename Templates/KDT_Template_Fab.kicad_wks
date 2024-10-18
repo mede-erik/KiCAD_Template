@@ -544,7 +544,7 @@
 	)
 	(tbtext "${BOARD_NAME} ${DOC_TYPE} Document"
 		(name "")
-		(pos 269.989 180.502)
+		(pos 391.909 264.3222)
 		(font
 			(face "Times New Roman")
 			(size 4 4)

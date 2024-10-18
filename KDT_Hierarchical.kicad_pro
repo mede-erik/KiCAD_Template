@@ -632,7 +632,7 @@
   "sheets": [
     [
       "0650c7a8-acba-429c-9f8e-eec0baf0bc1c",
-      "Root"
+      "Principale"
     ],
     [
       "de68a101-7eef-4ba8-abb4-14d03adb087f",
@@ -649,14 +649,6 @@
     [
       "e6015f1e-cbce-46f4-85e1-3d5463a17dc1",
       "Section B - Title B"
-    ],
-    [
-      "13eb0b07-00a1-4d61-8da3-582545eb29a8",
-      "Power - Sequencing"
-    ],
-    [
-      "e7c91631-be85-488a-af7a-f2a810f3fbfe",
-      "Revision History"
     ]
   ],
   "text_variables": {
